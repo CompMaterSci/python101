@@ -2,10 +2,11 @@
 Python 101
 ==========
 
-Welcome to the Python 101 course of the Institute of Materials Simulation.
-The tutorial comes in the form of Python package and thus has to be installed
-as such. It is a good practice to use something call *virtual environments* for
-this. You can create a new virtual environment via::
+Welcome to the Python 101 course of the Chair of Micromechanical Materials 
+Modelling (MiMM). The tutorial comes in the form of Python package and thus has
+to be installed as such. 
+It is a good practice to use something call *virtual environments* for this. 
+You can create a new virtual environment via::
 
     python3 -m venv ~/.virtualenvs/python101
 
